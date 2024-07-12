@@ -1,4 +1,6 @@
-ForoHub
+-------------ForoHub------------------
+
+
 ForoHub es un prototipo de foro desarrollado en Java desde la perspectiva de un back-end developer. Proporciona una API con los siguientes endpoints:
 
 - Registro de usuario
